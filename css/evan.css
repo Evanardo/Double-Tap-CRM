@@ -129,8 +129,6 @@ html {
     margin-top: 20px;
 }
 
-.tlb-sub-header {}
-
 .tlb-subpara {
     max-width: 75%;
     color: gray;
@@ -197,7 +195,6 @@ html {
     margin-bottom: 40px;
 }
 
-.xplore {}
 
 .xplore-header {
     display: flex;
